@@ -1,4 +1,4 @@
-##Instabug Challenge
+# Instabug Challenge
 
 # Test Plan for Any.do Application
 **Test Plan ID:** TP-001  
