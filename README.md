@@ -68,8 +68,7 @@ Please refer to the Jira board for all active issues, test cases, and results.
 
 
 # Test plan for automation task
-Test Plan: Login Functionality
-Objective:
+## Test Plan: Login Functionality Objective:
 The objective of this test plan is to ensure the login process works correctly across all scenarios, including:
 
 Validation of fields (username, password, login button).
