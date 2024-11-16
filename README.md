@@ -68,13 +68,14 @@ Please refer to the Jira board for all active issues, test cases, and results.
 
 
 # Test plan for automation task
-## Objectives:
-- Test user login functionality (valid and invalid credentials).
-- Verify error messages when login fails.
-- Verify visibility and functionality of the "X" button to close error messages.
-- Test "add task" functionality.
-- Ensure task editing and deletion functionality works as expected.
-- Validate task list display after successful login.
+Test Plan: Login Functionality
+Objective:
+The objective of this test plan is to ensure the login process works correctly across all scenarios, including:
+
+Validation of fields (username, password, login button).
+Handling invalid user credentials (such as locked-out users, incorrect passwords, etc.).
+Verifying user interface (UI) elements, such as the proper display and functionality of buttons, error messages, and other relevant UI components.
+This test plan will also focus on ensuring the correct UI/UX behavior of the login page, including the proper alignment of elements, visibility of input fields, buttons, and error messages, as well as verifying that they work as expected across different scenarios (valid and invalid logins).
 
 ## Test Cases Excel File
 
