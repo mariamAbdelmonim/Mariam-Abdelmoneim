@@ -67,7 +67,7 @@ Please refer to the Jira board for all active issues, test cases, and results.
 
 
 
-#Test plan for automation task
+# Test plan for automation task
 ## Objectives:
 - Test user login functionality (valid and invalid credentials).
 - Verify error messages when login fails.
